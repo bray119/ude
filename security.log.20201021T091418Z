@@ -1,0 +1,4 @@
+Oct 21 08:31:22 securityd_service[238] <Notice> [daemon{} ]: selector: kb_load (4), error: invalid session (6), sid: 100071, suid: -1, pid: 2181
+Oct 21 08:32:37 secd[264] <Error> [SecLogging{} ]:  securityd_xpc_dictionary_handler cloudd[317] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 "query missing class name" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}
+Oct 21 08:38:47 securityd_service[238] <Notice> [daemon{} ]: selector: kb_load (4), error: invalid session (6), sid: 100073, suid: -1, pid: 2232
+Oct 21 08:39:54 secd[264] <Error> [SecLogging{} ]:  securityd_xpc_dictionary_handler cloudd[317] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 "query missing class name" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}
